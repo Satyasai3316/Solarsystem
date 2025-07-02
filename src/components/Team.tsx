@@ -2,9 +2,9 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { User, Award, Briefcase, Lightbulb } from 'lucide-react';
-import SubramanyamImg from 'C:/Users/asus/Desktop/solar/solar/src/components/Images/Subramanyam.png';
-import GopiImg from 'C:/Users/asus/Desktop/solar/solar/src/components/Images/GOPI.png';
-import DurgaImg from 'C:/Users/asus/Desktop/solar/solar/src/components/Images/Durga.png';
+import SubramanyamImg from '../components/Images/Subramanyam.png';
+import GopiImg from '../components/Images/GOPI.png';
+import DurgaImg from '../components/Images/Durga.png';
 
 
 

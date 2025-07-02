@@ -2,8 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { Award, Users, Calendar, Target } from 'lucide-react';
-import Poster from 'C:/Users/asus/Desktop/solar/solar/src/components/Images/Poster.png';
-
+import Poster from '../components/Images/Poster.png';
 
 
 const About = () => {
