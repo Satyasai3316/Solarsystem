@@ -58,7 +58,7 @@ const About = () => {
               Our expertise spans across residential solar installations, commercial solar 
               projects, and industrial solar systems. We pride ourselves on delivering 
               customized solutions that maximize energy efficiency and provide long-term 
-              value to our clients.
+              value to our client.
             </p>
             
             <div className="space-y-4">
